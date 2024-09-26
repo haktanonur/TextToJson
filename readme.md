@@ -53,7 +53,7 @@ Follow these steps to install the necessary dependencies:
 
 2. Install the required Python packages:
     ```sh
-    pip install -r requirements.txt
+    pip install python-docx
     ```
 
 ## Usage
